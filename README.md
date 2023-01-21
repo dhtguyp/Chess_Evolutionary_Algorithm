@@ -1,2 +1,2 @@
 # Chess_Strategy_GP
-For the project pdf, please view Chess_Strategy.pdf
+For the project pdf, please view Chess_Strategy_GP.pdf
